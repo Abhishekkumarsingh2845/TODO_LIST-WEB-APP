@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhishekkumarsingh2845/TODO_LIST-WEB-APP/static/css/main.9826adb2.css",
+    "main.js": "/Abhishekkumarsingh2845/TODO_LIST-WEB-APP/static/js/main.7f2caa2b.js",
+    "static/js/787.9c86b36b.chunk.js": "/Abhishekkumarsingh2845/TODO_LIST-WEB-APP/static/js/787.9c86b36b.chunk.js",
+    "index.html": "/Abhishekkumarsingh2845/TODO_LIST-WEB-APP/index.html",
+    "main.9826adb2.css.map": "/Abhishekkumarsingh2845/TODO_LIST-WEB-APP/static/css/main.9826adb2.css.map",
+    "main.7f2caa2b.js.map": "/Abhishekkumarsingh2845/TODO_LIST-WEB-APP/static/js/main.7f2caa2b.js.map",
+    "787.9c86b36b.chunk.js.map": "/Abhishekkumarsingh2845/TODO_LIST-WEB-APP/static/js/787.9c86b36b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9826adb2.css",
+    "static/js/main.7f2caa2b.js"
+  ]
+}
